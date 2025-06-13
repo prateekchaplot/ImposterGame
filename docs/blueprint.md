@@ -1,4 +1,4 @@
-# **App Name**: GroupPlay Configurator
+# **App Name**: Imposter Syndrome
 
 ## Core Features:
 
